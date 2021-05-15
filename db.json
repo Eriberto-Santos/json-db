@@ -1,8 +1,8 @@
 {
     "Cursos" : [
         {
-         " id": 1,
-         " title": "CSS desde 0",
+         "id": 1,
+         "title": "CSS desde 0",
           "img": "./assets/img/css.png",
           "price": 600,
           "available": true
