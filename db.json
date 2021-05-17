@@ -9,8 +9,8 @@
         },
         {
           "id": 2,
-          "title": "/React desde 0",
-          "img": "assets/img/react.jpg",
+          "title": "React desde 0",
+          "img": "/assets/img/react.jpg",
           "price": 700,
           "available": true
         },
