@@ -3,13 +3,13 @@
         {
          "id": 1,
          "title": "CSS desde 0",
-          "img": "./assets/img/css.png",
+          "img": "/assets/img/css.png",
           "price": 600,
           "available": true
         },
         {
           "id": 2,
-          "title": "React desde 0",
+          "title": "/React desde 0",
           "img": "assets/img/react.jpg",
           "price": 700,
           "available": true
@@ -17,21 +17,21 @@
         {
           "id": 3,
           "title": "UX",
-          "img": "assets/img/ux.png",
+          "img": "/assets/img/ux.png",
           "price": 720,
           "available": true
         },
         {
           "id": 4,
           "title": "HTML",
-          "img": "./assets/img/html.png",
+          "img": "/assets/img/html.png",
           "price": 400,
           "available": true
         },
         {
           "id": 5,
           "title": "JavaScript",
-          "img": "assets/img/javascript.jpg",
+          "img": "/assets/img/javascript.jpg",
           "price": 550,
           "available": false
         }
